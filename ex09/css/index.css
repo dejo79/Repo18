@@ -1,0 +1,16 @@
+.container {
+    background-image: url("img/gigi-logo.png");
+}
+
+.box {
+    float: left;
+    height: 200px;
+    width: 200px;
+    padding: 100px;
+    text-align: center;
+}
+.navbar {
+    float: right;
+    display: inline;
+    list-style-type: none;
+}

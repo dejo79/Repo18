@@ -1,4 +1,4 @@
-.container {
+#showcase {
     background-image: url("img/gigi-logo.png");
 }
 
@@ -13,4 +13,11 @@
     float: right;
     display: inline;
     list-style-type: none;
+}
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
 }
